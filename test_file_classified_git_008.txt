@@ -1,0 +1,21 @@
+John Smith    amex 378282246310005    jsmithz123@digitalguardian.com  772-10-3102	    (781)788-8180       860 Winter Street, Suite 3, Waltham, MA 024512    ACTINOMYCOSIS
+J. Doe    dinersclub 30569309025904    jdoez_312@dod.gov               772103123	    (703) 571-3343      1400 Defense Pentagon, Washington, DC 20301    hemicorporectomy
+W. A. Shula    discover 6011000000000004    will.shulaz2@microsoft.com      772 10 3124	    (425)8828080        One Microsoft Way, Redmond, WA, 98052    ARTHROSCOPY
+Chris L. Johnson    jcb 3088000000000009    cjohnson_autonomy@hp.com        772-10-3125	    (781) 374-9000      HP Autonomy Boston 200 Clarendon St 21st Floor Boston, MA 02116    ENCEPHALITIS
+Lucy J. Kent    mastercard 5500000000000004    kentlzzz123@hp.com              772-10-3126	    (415) 979 3703      HP Software Headquarters HP Autonomy 1140 Enterprise Way Building G Sunnyvale CA 94089-1412    treatment
+Dwayne Kerns, Jr.    visa 4111111111111111    dwkernsz123@apache.org          772-10-3127	    919.573.9199        The Apache Software Foundation Dept. 9660 Los Angeles, CA 90084-9660    insurance
+Dante Jumper, III    5500 0000 0000 0004    djumper_emc2@mit.edu            772-10-3128	    617 253-1000        MIT P.O. Box 404 Randolph, MA 02368    therapy
+Allen A. Ricardo,Sr    4111 1111 1111 1111    1221222.2@ge.com                772-10-3129	    203 373 2211        3135 Easton Turnpike Fairfield, CT 06828    diagnosis
+Seth A. Rogen, II    3782 822463 10005    srogen@nkoreabannedme.com       772-10-3111	    781 235 5755        20 W, Wellesley Hills, MA 02481    condition
+A. S. Richards, Jr.    3056 9309 0259 04    nomorefunds@youknowwho.com      772-10-3112	    617 4520800         1 Hampshire Street, Cambridge, MA 02139    Patient
+John Smith    amex 378282246310005    jsmithz123@digitalguardian.com  772-10-3102	    (781)788-8180       860 Winter Street, Suite 3, Waltham, MA 024512    ACTINOMYCOSIS
+J. Doe    dinersclub 30569309025904    jdoez_312@dod.gov               772103123	    (703) 571-3343      1400 Defense Pentagon, Washington, DC 20301    hemicorporectomy
+W. A. Shula    discover 6011000000000004    will.shulaz2@microsoft.com      772 10 3124	    (425)8828080        One Microsoft Way, Redmond, WA, 98052    ARTHROSCOPY
+Chris L. Johnson    jcb 3088000000000009    cjohnson_autonomy@hp.com        772-10-3125	    (781) 374-9000      HP Autonomy Boston 200 Clarendon St 21st Floor Boston, MA 02116    ENCEPHALITIS
+Lucy J. Kent    mastercard 5500000000000004    kentlzzz123@hp.com              772-10-3126	    (415) 979 3703      HP Software Headquarters HP Autonomy 1140 Enterprise Way Building G Sunnyvale CA 94089-1412    treatment
+Dwayne Kerns, Jr.    visa 4111111111111111    dwkernsz123@apache.org          772-10-3127	    919.573.9199        The Apache Software Foundation Dept. 9660 Los Angeles, CA 90084-9660    insurance
+Dante Jumper, III    5500 0000 0000 0004    djumper_emc2@mit.edu            772-10-3128	    617 253-1000        MIT P.O. Box 404 Randolph, MA 02368    therapy
+Allen A. Ricardo,Sr    4111 1111 1111 1111    1221222.2@ge.com                772-10-3129	    203 373 2211        3135 Easton Turnpike Fairfield, CT 06828    diagnosis
+Seth A. Rogen, II    3782 822463 10005    srogen@nkoreabannedme.com       772-10-3111	    781 235 5755        20 W, Wellesley Hills, MA 02481    condition
+A. S. Richards, Jr.    3056 9309 0259 04    nomorefunds@youknowwho.com      772-10-3112	    617 4520800         1 Hampshire Street, Cambridge, MA 02139    Patient
+
